@@ -1,0 +1,6 @@
+@OzonHW1_add_HostAddress = http://localhost:5113
+
+GET {{OzonHW1_add_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
